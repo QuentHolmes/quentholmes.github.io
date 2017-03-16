@@ -1,8 +1,13 @@
 p
 {
     color: red;
+    font-family: 'Varela Round', sans-serif;
 }
 h1
 {
-    font-family: 'Varela Round', sans-serif;
+    font-family: 'UnifrakturMaguntia', cursive;
+}
+title
+{
+    font-family: 'Cinzel Decorative', cursive;
 }
