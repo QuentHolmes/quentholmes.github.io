@@ -1,5 +1,6 @@
 p
 {
+    font-family: 'Roboto', sans-serif;
     color: #414141;
     font-family: 'Varela Round', sans-serif;
 }
@@ -13,11 +14,13 @@ h2
 }
 em
 {
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     color: #626262
 }
 strong
 {
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     color: #8C2D2D
 }
