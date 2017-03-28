@@ -1,6 +1,6 @@
 p
 {
-    color: red;
+    color: #414141;
     font-family: 'Varela Round', sans-serif;
 }
 h1
@@ -10,6 +10,14 @@ h1
 h2
 {
     font-family: 'Cinzel Decorative', cursive;
+}
+em
+{
+    color: #626262
+}
+strong
+{
+    color: #8C2D2D
 }
 .nav {
     display: flex;
