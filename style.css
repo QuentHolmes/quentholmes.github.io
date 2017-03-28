@@ -1,5 +1,13 @@
-font-family: 'UnifrakturMaguntia', cursive;
 p
 {
     color: red;
+    font-family: 'Varela Round', sans-serif;
+}
+h1
+{
+    font-family: 'UnifrakturMaguntia', cursive;
+}
+h2
+{
+    font-family: 'Cinzel Decorative', cursive;
 }
