@@ -65,12 +65,8 @@ li a:hover:not(.active)
 {
   background-color: grey;
 }
-p, h1, h2, em; strong
+p, h1, h2, em, strong
 {
-  margin: 0;
-  padding: 0;
-  border: 0;
   font-weight: normal;
   font-style: normal;
-  line-height: 1;
 }
