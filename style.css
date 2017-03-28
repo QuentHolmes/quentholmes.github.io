@@ -21,8 +21,7 @@ em
 strong
 {
     font-family: 'Roboto', sans-serif;
-    font-style: normal;
-    text-decoration: none;
+    font-weight:normal;
     color: #8C2D2D
 }
 .nav {
