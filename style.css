@@ -13,10 +13,12 @@ h2
 }
 em
 {
+    font-style: normal;
     color: #626262
 }
 strong
 {
+    font-style: normal;
     color: #8C2D2D
 }
 .nav {
