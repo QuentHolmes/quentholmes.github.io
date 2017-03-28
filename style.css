@@ -15,12 +15,14 @@ em
 {
     font-family: 'Roboto', sans-serif;
     font-style: normal;
+    text-decoration: none;
     color: #626262
 }
 strong
 {
     font-family: 'Roboto', sans-serif;
     font-style: normal;
+    text-decoration: none;
     color: #8C2D2D
 }
 .nav {
