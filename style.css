@@ -1,37 +1,45 @@
-body {
+body
+{
   margin: auto;
   background-color: #EEEEEE;
   margin-top: 70px;
 }
-#content {
+#content
+{
   margin-left: 15%;
   margin-right: 15%;
   background-color: white;
   padding: 30px;
   word-wrap: break-word;
 }
-p {
+p
+{
   font-family: 'Roboto', sans-serif;
   color: #414141;
 }
-h1 {
+h1
+{
   font-family: 'UnifrakturMaguntia', cursive;
 }
-h2 {
+h2
+{
   font-family: 'Cinzel Decorative', cursive;
 }
-em {
+em
+{
   font-family: 'Roboto', sans-serif;
   font-style: normal;
   color: #626262
 }
-strong {
+strong
+{
   font-family: 'Roboto', sans-serif;
   font-style: normal;
   font-weight: normal;
   color: #856865
 }
-#nav {
+#nav
+{
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -41,19 +49,19 @@ strong {
   top: 0;
   width: 100%;
 }
-li {
+li
+{
   float: left;
 }
-li a {
+li a
+{
   display: block;
   color: black;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
-li a:hover:not(.active) {
-  background-color: grey;
-}
-.active {
+li a:hover:not(.active)
+{
   background-color: grey;
 }
