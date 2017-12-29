@@ -8,8 +8,8 @@ body
 {
   padding-top: 40px;
   padding-bottom: 40px;
-  margin-left: 15%;
-  margin-right: 15%;
+  margin-left: 20%;
+  margin-right: 20%;
   background-color: white;
   padding: 30px;
   word-wrap: break-word;
@@ -21,11 +21,11 @@ p
 }
 h1
 {
-  font-family: 'UnifrakturMaguntia', cursive;
+  font-family: 'Roboto', sans-serif;
 }
 h2
 {
-  font-family: 'Cinzel Decorative', cursive;
+  font-family: 'Roboto', sans-serif;
 }
 em
 {
