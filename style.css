@@ -14,8 +14,8 @@ footer
 {
   padding-top: 50px;
   padding-bottom: 50px;
-  margin-left: 20%;
-  margin-right: 20%;
+  margin-left: 25%;
+  margin-right: 25%;
   background-color: white;
   padding: 30px;
   word-wrap: break-word;
@@ -58,7 +58,7 @@ ul
   list-style-type: none;
   margin: 0;
   padding: 0;
-  width: 16%;
+  width: 15%;
   background-color: white;
 }
 
